@@ -1,9 +1,15 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx">
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=creytas&theme=radical&hide_langs_below=8)
+
+![](https://github-readme-stats.vercel.app/api?username=creytas&show_icons=true&theme=radical&count_private=true)
 <!--
 **creytas/creytas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
