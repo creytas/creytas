@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript.png" width="48" height="48" alt="css" />
+        <img src="./img/javascript.png" width="48" height="48" alt="javascript" />
       </a>
       <br>JavaScript
     </td>      
@@ -68,23 +68,36 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/reactJs.png" width="48" height="48" alt="html" />
+        <img src="./img/reactJs.png" width="48" height="48" alt="react js" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/css.png" width="48" height="48" alt="css" />
+        <img src="./img/nextJs.png" width="48" height="48" alt="next js" />
       </a>
-      <br>CSS
+      <br>Next
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript.png" width="48" height="48" alt="css" />
+        <img src="./img/sass.png" width="48" height="48" alt="sass" />
       </a>
-      <br>JavaScript
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/tailwind.png" width="48" height="48" alt="tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap.png" width="48" height="48" alt="bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>      
-  </tr>    
+  </tr>  
+    
 </table>
 
 <h2 align="left">Coding Activity</h2>
