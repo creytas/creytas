@@ -80,6 +80,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="./img/redux.png" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>      
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="./img/sass.png" width="48" height="48" alt="sass" />
       </a>
       <br>Sass
