@@ -5,9 +5,6 @@
 <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/creytas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/creytas?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/creytas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/creytas"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/creytas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -60,7 +57,34 @@
       </a>
       <br>CSS
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript.png" width="48" height="48" alt="css" />
+      </a>
+      <br>JavaScript
+    </td>      
   </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/reactJs.png" width="48" height="48" alt="html" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/css.png" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript.png" width="48" height="48" alt="css" />
+      </a>
+      <br>JavaScript
+    </td>      
+  </tr>    
 </table>
 
 <h2 align="left">Coding Activity</h2>
