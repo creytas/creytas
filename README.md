@@ -103,7 +103,47 @@
       <br>Bootstrap
     </td>      
   </tr>  
-    
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/expressJs.png" width="48" height="48" alt="express js" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/nestJs.png" width="48" height="48" alt="nest js" />
+      </a>
+      <br>Nest
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/firebase_logo_icon_171157.png" width="48" height="48" alt="firebase" />
+      </a>
+      <br>Firebase
+    </td>      
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sequelize_original_logo_icon_146348.png" width="48" height="48" alt="sequelize" />
+      </a>
+      <br>Sequelize
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/file_type_light_prisma_icon_130444.png" width="48" height="48" alt="prisma" />
+      </a>
+      <br>Prisma
+    </td>     
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/flutter.png" width="48" height="48" alt="flutter" />
+      </a>
+      <br>Flutter
+    </td>  
+  </tr>  
 </table>
 
 <h2 align="left">Coding Activity</h2>
