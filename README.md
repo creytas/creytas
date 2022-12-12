@@ -9,15 +9,10 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/creytas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/creytas/github-stats-transparent/output/generated/overview.svg" alt="creytas" align="right" />
-</a>
 
  :office: &nbsp;I'm currently working at **Koumi Shop** <br><br>
  :seedling: &nbsp;I’m currently learning **Cloud DevOps Engineering** and **Flutter**<br><br>
- :speech_balloon: &nbsp;I like to talk about **Software Engineering** , **Books** and **Cultural exchange**<br><br>
- :mailbox: &nbsp;Contact me on <b><a href="mailto: randy.buhendwa@gmail.com">randy.buhendwa@gmail.com</a></b><br>
-
+ :speech_balloon: &nbsp;I like to talk about **Software Engineering** , **Books** , **Anime** , **Gaming** and **Cultural exchange**<br><br>
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -40,9 +35,87 @@
   </tr>
 </table>
 
-> Tools that I like to work with.
+> Tools & Environments that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/microsoft_visual_studio_code_alt_macos_bigsur_icon_189951.png" width="48" height="48" alt="visual studio code" />
+      </a>
+      <br>Code
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/figma_logo_icon_170157.png" width="48" height="48" alt="figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/xcode_macos_bigsur_icon_189539.png" width="48" height="48" alt="xcode" />
+      </a>
+      <br>Xcode
+    </td>      
+  </tr>
+    
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/nodejs_original_logo_icon_146411.png" width="48" height="48" alt="node js" />
+      </a>
+      <br>Node
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysqlworkbench_93532.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mongodb_original_logo_icon_146424.png" width="48" height="48" alt="mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/docker_original_logo_icon_146556.png" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td>      
+  </tr>
+    
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/github-logo_icon-icons.com_73546.png" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>      
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/aws_icon_146074.png" width="48" height="48" alt="amazon web services" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/heroku_logo_icon_168126.png" width="48" height="48" alt="heroku" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/file_type_netlify_icon_130354.png" width="48" height="48" alt="netlify" />
+      </a>
+      <br>Netlify
+    </td>      
+  </tr>    
+</table>
 
 > Languages & Frameworks that I like to work with.
+> 
 <table>
   <tr>
     <td align="center" width="96">
@@ -101,6 +174,12 @@
         <img src="./img/bootstrap.png" width="48" height="48" alt="bootstrap" />
       </a>
       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/wordpress_logo_icon_167953.png" width="48" height="48" alt="wordpress" />
+      </a>
+      <br>WordPress
     </td>      
   </tr>  
 
