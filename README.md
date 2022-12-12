@@ -226,3 +226,6 @@
 </table>
 
 <h2 align="left">Coding Activity</h2>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=creytas&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creytas&hide=TeX&theme=transparent)
